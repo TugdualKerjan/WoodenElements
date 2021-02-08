@@ -1,0 +1,10 @@
+<svg height="30mm" viewBox="0 0 30 30" width="30mm">
+   <g transform="matrix(1.2 0 0 1.2 -48.985716 -91.450003)">
+      <rect fill="gray" height="25" rx="2.228794" ry="2.228794" width="25" x="40.82143" y="76.208336" /><text font-family="sans-serif" font-size="13.207546" font-weight="400" letter-spacing="0" stroke-width=".182079" style="line-height:1.25" text-anchor="middle" word-spacing="0" x="53.32143" y="92.862129">
+         <tspan id="sym" style="text-align:center" x="53.32143" y="93.262131"> Tl </tspan>
+      </text><text font-family="sans-serif" font-size="4.18239" font-weight="400" letter-spacing="0" stroke-width=".165094" style="line-height:1.25" word-spacing="0" x="43.969749" y="81.691818">
+         <tspan id="number" x="42.969749" y="81.691818">81</tspan>
+      </text><text font-family="Padauk Book" font-size="3.962264" font-weight="400" letter-spacing="0" stroke-width=".165094" style="line-height:1.25" word-spacing="0" x="53.30262" y="98.755493">
+         <tspan font-family="Noto Color Emoji" font-size="3.327778" id="name" text-anchor="middle" x="53.30262" y="98.755493"> Thallium</tspan>
+      </text></g>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="30mm" height="30mm" viewBox="0 0 30 30">
+   <g transform="matrix(1.2 0 0 1.2 -48.985716 -91.450003)">
+      <rect width="25" height="25" x="40.82143" y="76.208336" rx="2.228794" ry="2.228794" fill="gray" /><text
+         style="line-height:1.25" x="53.32143" y="92.862129" font-weight="400" font-size="13.207546" letter-spacing="0"
+         word-spacing="0" font-family="sans-serif" text-anchor="middle" stroke-width=".182079">
+         <tspan id="sym" x="53.32143" y="93.262131" style="text-align:center">H</tspan>
+      </text><text style="line-height:1.25" x="43.969749" y="81.691818" font-weight="400" font-size="4.18239"
+         letter-spacing="0" word-spacing="0" font-family="sans-serif" stroke-width=".165094">
+         <tspan id="number" x="42.969749" y="81.691818">100</tspan>
+      </text><text style="line-height:1.25" x="53.30262" y="98.755493" font-weight="400" font-size="3.962264"
+         letter-spacing="0" word-spacing="0" font-family="Padauk Book" stroke-width=".165094">
+         <tspan id="name" x="53.30262" y="98.755493" font-size="3.327778" font-family="Noto Color Emoji" text-anchor="middle">
+            Hydrogen</tspan>
+      </text></g>
+</svg>
