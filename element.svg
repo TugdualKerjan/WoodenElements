@@ -5,8 +5,9 @@
          word-spacing="0" font-family="sans-serif" text-anchor="middle" stroke-width=".182079">
          <tspan id="sym" x="53.32143" y="93.262131" style="text-align:center">H</tspan>
       </text><text style="line-height:1.25" x="43.969749" y="81.691818" font-weight="400" font-size="4.18239"
-         letter-spacing="0" word-spacing="0" font-family="sans-serif" stroke-width=".165094">
-         <tspan id="number" x="42.969749" y="81.691818">100</tspan>
+         letter-spacing="0" word-spacing="0" font-family="courier" stroke-width=".165094">
+         <tspan id="number" x="42.969749" y="81.691818" style="-inkscape-font-specification:'Noto Sans CJK JP'"
+            font-family="Noto Sans CJK JP">100</tspan>
       </text><text style="line-height:1.25" x="53.30262" y="98.755493" font-weight="400" font-size="3.962264"
          letter-spacing="0" word-spacing="0" font-family="Padauk Book" stroke-width=".165094">
          <tspan id="name" x="53.30262" y="98.755493" font-size="3.327778" font-family="Noto Color Emoji" text-anchor="middle">
